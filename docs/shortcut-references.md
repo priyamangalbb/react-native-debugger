@@ -4,7 +4,7 @@ This section will explain about the following items in RNDebugger.
 
 * [Content menu](#context-menu)
 * [Touch Bar](#touch-bar-in-macos)
-* [Keyborad shortcuts](#keyborad-shortcuts)
+* [Keyboard shortcuts](#keyborad-shortcuts)
 
 ## Context menu
 
